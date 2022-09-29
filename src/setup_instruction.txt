@@ -1,0 +1,8 @@
+# Install the AMQP
+# open the AMQP Manager on web to view the logs.Url:http://localhost:15672/
+# open terminal in project directory where you are placing it.
+# open 3 terminal.
+# In 2 terminal run " php reciever.php " // To recieve the messages
+# In remaining termainl run " php sender.php "
+
+# Check the previous two terminal you will see you messages.
